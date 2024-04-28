@@ -1,0 +1,7 @@
+setup.py
+coloredoutput/__init__.py
+coloredoutput/coloredoutput.py
+coloredoutput.egg-info/PKG-INFO
+coloredoutput.egg-info/SOURCES.txt
+coloredoutput.egg-info/dependency_links.txt
+coloredoutput.egg-info/top_level.txt
